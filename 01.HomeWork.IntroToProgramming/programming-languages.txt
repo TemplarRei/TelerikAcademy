@@ -1,0 +1,23 @@
+A foreword: Thank Gods for StackOverflow & Wiki!!!
+
+C
+A general-purpose programming language, C is one of the most widely used languages of all time. It's often found behind system software, like the one for Unix.
+Problem is, it's hands-on - the programmer must tell the program exactly what to do every step of the way and doesn't support object oriented code. A plus - it lets you do almost anything. C# closely resembles it syntactually, 'cause it's based on it.
+
+Java
+Object-Oriented (OO), concurrent, class-based programming language. It's designed to have as few implementation dependancies as possible and follow WORA (Write Once, Run Anywhere) - the code doesn't have to be recompiled from one platform to another. That's one of the main differences with C# too - Java is platform independent. All in all, Java and C# are quite different functionally, though somewhat alike syntactually.
+
+PHP
+A server-side scripting language (scripts run on the server-side, not the client-side), though in theory can be used as a general-purpose programming language. It too is OO, and cross-platfor. The current stable versions of PHP are 5.5 and 5.6 and we're waiting for 7.0 sometimes late in 2015. The differences between PHP and C# are many, though they are both influenced by C++ - PHP is mainly used for web development, while C# is more app oriented - both mobile and desktop. (though you could, in theory, each of them for the others purpose.)
+
+JavaScript
+JavaScript is a scripting language, often run in web applications for dynamic content. It isn't related to Java. JavaScript is Cross-platform, mainly targeted at Cloud services, embedded systems and Web development. It, like C# is OO. JS, unlike C# has functions (C# has methods instead). JS is one of the most widely used scripting languages.
+
+C++
+Another OO cross-platform language, C++ is used for software development on many levels - from embedded systems and mobile development (iOS), to Cloud computing, but it's biased towards system programming. Some of the differences between C++ and C# are - classes and structures in C++ are basically identical, while in C3 they are differentiated. Also memory dumping is different, though I couldn't quite understand how :D
+
+Objective-C
+Yet another OO gen-purpose language, built upon C. It's mainly used by OS X and iOS and their APIs (Cocoa). It's a superset of C - any C program can be compiled with a Objective-C compiler and C code can be freely included in a Objective-C class. The entire OO sytax is derived from SmallTalk. Making GUI apps in Objective-C is supposedly easier than C#, but I only have the internet's word for that, so don't quote me.
+
+SQL
+SQL is a language, desined and used especially for managing data in relational database management systems (RDBMS). SQL consists of data definition language and data manipulation language. The basic operators insert, query update and delete, as well as DB schema creation and modification plus data access control basically form the entire palette of SQL. It's different than C# in a world of aspects - different purposes, targets, syntax and what's not.
