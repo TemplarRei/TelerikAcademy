@@ -1,0 +1,19 @@
+Source: http://blog.profitbricks.com/top-integrated-developer-environments-ides/
+
+Code::Blocks
+Fully configurable IDE for C, C++ and Fortran. Some of it's major PROs - it's free and really extensible. It's written in C++, uses wxWidgets, doesn't need interpreted or proprietary languages supports multiple compilers... Overall the word behind it is versatility.
+
+DialogBlocks
+A GUI coding assistant, DialogBlocks is often used for creating dialogs, wizards and frames for Win, Linux, Mac and any other wxWidgets supported platform. Basically, that's all there is to it, but according to the description, it's reeeeeeeally easy to use and can generate quite complex GUIs. A new copy costs 90 bucks though, so there's that...
+
+CodeLite
+It's Open-Source! Used for C+ and C++ coding, CodeLite supports all major platforms. Has completion enginge, compiler, refractoring, code navigation and over-all provides a lot of the easing features a programmer might want. And it's Open-Source, so it's FREE!
+
+Komodo IDE
+Supports a ton of languages - Python, PHP, Ruby, Perl, HTML, CSS and JavaScript. Oh, and it has plug-ins to add support for some 16 more. Splitview and multi-window editing help the programmer work more intuituvelly together with version control for most source control systems. Other quality-of-life features include code intelligence, auto-completion, refractoring, graphical debugging (for PHP, Python, Perl, Ruby, Tcl, Node.js) and multiple extension option. Code colab helps with team projects and the version prices range from free for the Educational and Goodwill to 595 dollars for the Pro Studio so you can pick the price of your poison.
+
+Aptana Studio 3
+A second Open-Source on the list, Aptana supports HTML5, CSS3, JavaScript, Ruby, Rails, PHP and Python and has code assisting for most of them. The supported protocols include but are not limited to FTP, SFTP, FTPS and Capistrano. For Ruby and Rails Aptana has the option to directly push apps to hosting services, for them plus JavaScript has integrated debuggers. From the source control systems only Git is intregrated, so users of other SCSs - beware! Aand it's free.
+
+Geany
+It's basically a text editor with the GTK2 toolkit. It's on the list, because it has the most basic features of an IDE. It's idea is to be small and fast, besides it really requires only the GTK2 run library to work. Good thing is it has a lot of plugins and the option to code more, so you can make it comfortable to work with if you spend some time on it. The quality of life features are code navigation, construct completion, syntax highlighting and code folding. And it's free!
